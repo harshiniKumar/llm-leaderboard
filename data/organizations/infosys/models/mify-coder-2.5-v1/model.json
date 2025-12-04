@@ -1,6 +1,6 @@
 {
-  "model_id": "mify-coder-2.5B",
-  "name": "Mify-Coder-2.5B",
+  "model_id": "mify-coder-2.5B-v1",
+  "name": "Mify-Coder-2.5B-v1",
   "organization_id": "infosys",
   "fine_tuned_from_model_id": null,
   "description": "",

@@ -640,8 +640,8 @@
     "organization_id": "zai-org"
   },
    {
-    "model_provider_id": null,
-    "model_id": "mify-coder-2.5b",
+    "model_provider_id": 371,
+    "model_id": "mify-coder-2.5B-v1",
     "provider_id": "novita",
     "deprecated_at": null,
     "input_cents_per_million_tokens": 150,
@@ -667,8 +667,8 @@
     "output_modality_video": false,
     "created_at": "2025-11-30T00:00:00.000000+00:00",
     "updated_at": "2025-11-30T00:00:00.000000+00:00",
-    "provider_model_id_used": "InfosysEnterprise/Mify-Coder-2.5B-v0.1",
-    "model_name": "Mify-Coder-2.5B-v0.1",
+    "provider_model_id_used": "InfosysEnterprise/Mify-Coder-2.5B-v1",
+    "model_name": "Mify-Coder-2.5B-v1",
     "organization_id": "infosys"
   }
 ]
